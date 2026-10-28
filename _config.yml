@@ -1,0 +1,8 @@
+title: Coda One Notes
+description: Notes on AI detectors, second-language writers and fair academic writing, from the team behind Coda One.
+author: Miles W
+url: "https://codaone-ai.github.io"
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
